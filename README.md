@@ -2,13 +2,7 @@
 
   **Software Engineer | Frontend Developer | UI/UX Designer**
 
-I enjoy bringing ideas to life through clean interfaces, thoughtful design, and interactive web experiences. I'm also exploring AI and how it can be used to build smarter, more useful applications.
-
-###   What I'm Exploring
--  Creating intuitive, user-centered interfaces with UI/UX design
--  Building responsive web applications and interactive user experiences
--  Exploring AI and its applications in software development
--  Collaborating on projects that combine creativity and technology
+I'm a Software Engineering graduate passionate about creating intuitive, visually engaging digital experiences. I enjoy combining frontend development with user-centered design to build applications that are both functional and enjoyable to use. I'm also exploring AI and new technologies to expand the possibilities of what I can build.
 
 ###   Tech Stack
 
@@ -25,8 +19,10 @@ I enjoy bringing ideas to life through clean interfaces, thoughtful design, and 
 ### 💬 Let's Connect
 I'm always open to exchanging ideas, learning from other developers, and collaborating on interesting projects.
 
-  Reach me on linkedin.com/in/aisha-kulane-b4b14a2a1 or via aishakulane01@gmail.com.
+  Reach me on linkedin.com/in/aisha-kulane-b4b14a2a1.
+   Email: aishakulane01@gmail.com
+  Portfolio: https://aishakulane.netlify.app/
 
 ---
 
-*Curious by nature, creative by design, and always building something new.* ✨
+*Designing with purpose. Developing with curiosity. Exploring what's possible with technology* 
